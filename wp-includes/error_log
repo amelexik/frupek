@@ -1,0 +1,12 @@
+[05-Jan-2017 01:18:09 Europe/Helsinki] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/frupek/public_html/wp-includes/functions.php on line 8
+[05-Jan-2017 01:18:09 Europe/Helsinki] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/frupek/public_html/wp-includes/functions.php on line 8
+[05-Jan-2017 01:18:09 Europe/Helsinki] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/frupek/public_html/wp-includes/functions.php on line 8
+[22-Mar-2017 10:59:12 Europe/Helsinki] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/frupek/public_html/wp-includes/registration-functions.php on line 7
+[22-Oct-2017 03:40:09 Europe/Helsinki] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/frupek/public_html/wp-includes/registration-functions.php on line 7
+[14-Mar-2018 21:34:07 Europe/Helsinki] PHP Fatal error:  Class 'Walker' not found in /home/frupek/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[23-Mar-2018 07:06:19 Europe/Helsinki] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/frupek/public_html/wp-includes/locale.php on line 10
+[19-Nov-2018 17:46:24 Europe/Helsinki] PHP Fatal error:  Call to undefined function is_robots() in /home/frupek/public_html/wp-includes/template-loader.php on line 28
+[19-Dec-2018 03:59:50 Europe/Helsinki] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/frupek/public_html/wp-includes/locale.php on line 10
+[01-Jan-2019 18:36:41 Europe/Helsinki] PHP Fatal error:  Class 'Walker' not found in /home/frupek/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[30-Apr-2020 06:13:03 Europe/Helsinki] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/frupek/public_html/wp-includes/locale.php on line 10
+[01-May-2020 20:52:40 Europe/Helsinki] PHP Fatal error:  Class 'Walker' not found in /home/frupek/public_html/wp-includes/class-walker-nav-menu.php on line 17

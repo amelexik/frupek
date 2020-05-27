@@ -1,0 +1,8 @@
+[21-Feb-2017 10:55:39 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[19-Apr-2017 22:06:55 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[30-Jun-2017 18:11:45 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[09-Jun-2018 15:07:19 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[31-Jan-2019 05:02:59 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[09-Feb-2019 21:08:38 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[08-Apr-2019 14:06:26 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
+[18-Sep-2019 00:17:04 Europe/Helsinki] PHP Fatal error:  Call to undefined function add_action() in /home/frupek/public_html/wp-content/plugins/hello.php on line 60
