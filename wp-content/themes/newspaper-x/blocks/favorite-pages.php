@@ -1,7 +1,7 @@
 <?php
 $id1 = 193;
-$id2 = 193;
-$id3 = 193;
+$id2 = 236;
+$id3 = 189;
 
 
 function getPageThumb($id,$propId = 'newspaper-x-recent-post-0')
@@ -10,6 +10,8 @@ function getPageThumb($id,$propId = 'newspaper-x-recent-post-0')
     if (!$page)
         return;
     $image = get_the_post_thumbnail_url($page);
+    if(empty($image))
+        $image = 'https://imgholder.ru/600x300/8493a8/adb9ca&text=IMAGE+HOLDER&font=kelson';
     $url = get_permalink($page);
     $title = $page->post_title;
 
@@ -18,9 +20,9 @@ function getPageThumb($id,$propId = 'newspaper-x-recent-post-0')
                         data-src="{$image}"
                         style="background-image:url($image);cursor: pointer;" onclick="window.location='{$url}'">
                         <div class="newspaper-x-post-info">
-                            <h1>
+                            <h3>
                                 <a href="{$url}">{$title}</a>
-                            </h1>
+                            </h3>
                     </li>
 OUT;
     return $html;
@@ -33,8 +35,8 @@ OUT;
         <div class="newspaper-x-recent-posts container">
             <ul>
                 <?=getPageThumb($id1); ?>
-                <?=getPageThumb($id1,'newspaper-x-recent-post-1'); ?>
-                <?=getPageThumb($id1,'newspaper-x-recent-post-2'); ?>
+                <?=getPageThumb($id2,'newspaper-x-recent-post-1'); ?>
+                <?=getPageThumb($id3,'newspaper-x-recent-post-2'); ?>
             </ul>
         </div>
     </div>
