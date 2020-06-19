@@ -77,41 +77,7 @@ else:
 	?>
     </div>
 
-
-    <div class="newspaper-x-header-widget-area">
-        <div id="newspaper_x_header_module-2" class="widget newspaper_x_widgets">
-            <div class="newspaper-x-recent-posts container">
-                <ul>
-                    <li class="blazy" id="newspaper-x-recent-post-0"
-                        data-src="https://lh3.googleusercontent.com/proxy/rfXM4seFDyc8oYPWI7HgzRY5DehfW_yLgMff17-cFrhvhsj4noSYVMh4j-yQ1nlz5BjxVjN9SYUjyylVyCx0uX53dbX58St-84C7VAeSK-izyAE_-7zF2QOsYhQN_xO6zrYxPuEW2MTpB6DAJUQf"
-                        style="background-image:url('https://lh3.googleusercontent.com/proxy/rfXM4seFDyc8oYPWI7HgzRY5DehfW_yLgMff17-cFrhvhsj4noSYVMh4j-yQ1nlz5BjxVjN9SYUjyylVyCx0uX53dbX58St-84C7VAeSK-izyAE_-7zF2QOsYhQN_xO6zrYxPuEW2MTpB6DAJUQf')">
-                        <div class="newspaper-x-post-info">
-                            <h1>
-                                <a href="/про-нас">
-                                    Про Фрутек
-                                </a>
-                            </h1>
-                    </li>
-                    <li class="blazy" id="newspaper-x-recent-post-1"
-                        data-src="https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_780,h_405/https://bbooster.online/wp-content/uploads/2020/02/organizatsionnaya-struktura-upravleniya-780x405.jpg"
-                        style="background-image:url('https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_780,h_405/https://bbooster.online/wp-content/uploads/2020/02/organizatsionnaya-struktura-upravleniya-780x405.jpg)">
-                        <div class="newspaper-x-post-info">
-                            <h6>
-                                <a href="/органи-управління">Структура та управління</a>
-                            </h6>
-                    </li>
-                    <li class="blazy" id="newspaper-x-recent-post-2"
-                        data-src="https://gastronomicassociation.ru/wp-content/uploads/2017/02/shutterstock_528642268_chlenstvo-1600x620.jpg"
-                        style="background-image:url('https://gastronomicassociation.ru/wp-content/uploads/2017/02/shutterstock_528642268_chlenstvo-1600x620.jpg')">
-                        <div class="newspaper-x-post-info">
-                            <h6>
-                                <a href="/членство">Члени (членство як стати членом та існуючі члени)</a>
-                            </h6>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    <?php  get_template_part( 'blocks/favorite-pages' ); ?>
 
     <!-- Header Widget Area -->
 	<?php // get_template_part( 'template-parts/header-widget-area' )
