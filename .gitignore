@@ -24,3 +24,4 @@ node_modules/
 *.sqlite
 /log
 .idea
+wp-config.php
