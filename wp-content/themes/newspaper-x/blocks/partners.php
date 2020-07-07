@@ -41,11 +41,11 @@ $data = [
 <div id="newspaper_x_widget_partners" class="widget newspaper_x_widgets">
     <h3 class="widget-title">
         <span>ПАРТНЕРИ ФРУТЕК</span></h3>
-    <div class="row newspaper-x-layout-b-row">
+    <div class="row newspaper-x-layout-b-row slick-responsive">
 
 
         <?php foreach ($data as $datum) { ?>
-            <div class="col-md-3 col-xs-6">
+            <div>
                 <div class="newspaper-x-blog-post-layout-b partner-item">
                     <div class="newspaper-x-image">
                         <a href="<?= $datum['url']; ?>">
@@ -59,6 +59,19 @@ $data = [
             </div>
         <?php } ?>
 
-
     </div>
 </div>
+
+
+<style>
+    .partner-item{
+
+        border-radius: 10px;
+        padding: 10px;
+        margin: 10px;
+    }
+    .slick-prev:before, .slick-next:before{
+        color: #0f5fa3;
+        font-size: 30px;
+    }
+</style>

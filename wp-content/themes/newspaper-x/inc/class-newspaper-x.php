@@ -224,6 +224,17 @@ class Newspaper_X {
 		if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 			wp_enqueue_script( 'comment-reply' );
 		}
+
+		/**
+		 * Slick
+		 */
+		wp_enqueue_script( 'slick', get_template_directory_uri() . '/assets/vendors/s/slick.min.js', array( 'jquery' ), '', true );
+		wp_enqueue_style( 'slick.css', get_template_directory_uri() . '/assets/vendors/s/slick.css');
+		wp_enqueue_style( 'slick.theme', get_template_directory_uri() . '/assets/vendors/s/slick-theme.css');
+
+		if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+			wp_enqueue_script( 'comment-reply' );
+		}
 	}
 
 	/**
