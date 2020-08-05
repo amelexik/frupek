@@ -75,14 +75,14 @@ if ( $breadcrumbs_enabled ) {
             $next = get_next_post_link();
             $next = str_replace( '&raquo;', '<span class="fa fa-caret-right"></span>', $next );
             ?>
-            <div class="newspaper-x-next-prev row">
-                <div class="col-md-6 text-left">
-                    <?php echo $prev ?>
-                </div>
-                <div class="col-md-6 text-right">
-                    <?php echo $next ?>
-                </div>
-            </div>
+<!--            <div class="newspaper-x-next-prev row">-->
+<!--                <div class="col-md-6 text-left">-->
+<!--                    --><?php //echo $prev ?>
+<!--                </div>-->
+<!--                <div class="col-md-6 text-right">-->
+<!--                    --><?php //echo $next ?>
+<!--                </div>-->
+<!--            </div>-->
             <?php
         } else {
             echo '<p class="archive" >' . wp_trim_words( get_the_content( esc_html__( 'Read More', 'newspaper-x' ) ), 35 ) . '</p>';

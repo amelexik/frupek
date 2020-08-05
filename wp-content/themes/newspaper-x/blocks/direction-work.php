@@ -21,10 +21,3 @@
         </div>
     </div>
 <?php } ?>
-
-
-<style>
-    .item-icon {
-        width: 100%;
-    }
-</style>

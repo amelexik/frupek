@@ -179,7 +179,7 @@ class Newspaper_X {
 		 * Theme styling
 		 */
 		wp_enqueue_style( 'newspaper-x-style', get_stylesheet_uri() );
-		wp_enqueue_style( 'newspaper-x-stylesheet', get_template_directory_uri() . '/assets/css/style.css', array(), $theme['Version'] );
+		wp_enqueue_style( 'newspaper-x-stylesheet', get_template_directory_uri() . '/assets/css/style.css', array(), $theme['Version'].'-1' );
 
 
 		$color = get_theme_mod( 'newspaper_x_header_bg', '#0E0E11' );

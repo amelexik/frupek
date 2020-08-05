@@ -48,7 +48,7 @@ textarea {
 p {
   font-size: 15px;
   font-family: "Nunito Sans", sans-serif;
-  color: #8c9597;
+  #color: #8c9597;
   line-height: 25px;
   margin-bottom: 1.5em;
   font-weight: 400; }
@@ -56,7 +56,7 @@ p {
 article.post p {
   font-size: 15px;
   font-family: "Nunito Sans", sans-serif;
-  color: #8b8d91;
+  color: #000000;
   font-weight: 400;
   line-height: 25px;
   margin-top: 10px; }
@@ -325,7 +325,7 @@ li.blazy {
 .pagination .page-numbers {
   padding: 10px;
   font-family: "Nunito Sans", sans-serif;
-  color: #8b8d91;
+  color: #000000;
   font-size: 14px; }
   .pagination .page-numbers.current {
     color: #0a396d; }
@@ -478,7 +478,7 @@ input[type="datetime-local"],
 input[type="color"] {
   padding: 1px 15px;
   line-height: 25px;
-  color: #8b8d91; }
+  color: #000000; }
   input[type="text"]:hover, input[type="text"]:focus,
   input[type="email"]:hover,
   input[type="email"]:focus,
@@ -515,7 +515,7 @@ textarea {
   padding: 10px 15px;
   line-height: 25px;
   min-height: 160px;
-  color: #8b8d91;
+  color: #000000;
   width: 100%; }
   textarea:hover, textarea:focus {
     border-color: #89b3ce; }
@@ -751,7 +751,7 @@ a {
   line-height: 26px;
   padding-bottom: 10px;
   position: relative;
-  color: #939393;
+  color: #000000;
   display: inline-block;
   font-weight: 300; }
 
@@ -789,7 +789,7 @@ a {
       font-size: 16px;
       display: inline-block;
       padding-left: 5px;
-      color: #939393; }
+      color: #000000; }
     #site-navigation .menu > li.menu-item-has-children > ul li:hover, #site-navigation .menu > li.menu-item-has-children > ul li:focus-within {
       color: #FFF;
       background-color: #0e649b; }
@@ -1164,14 +1164,14 @@ a {
         font-size: 12px;
         display: block; }
       .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_rss ul li .rssSummary {
-        color: #8b8d91;
+        color: #000000;
         margin-top: 10px; }
       .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_rss ul li cite {
         font-style: initial; }
     .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_comments ul li {
       margin-bottom: 15px;
       font-size: 15px;
-      color: #8b8d91;
+      color: #000000;
       font-family: "Nunito Sans", sans-serif; }
       .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_comments ul li a {
         color: #0a396d; }
@@ -1182,7 +1182,7 @@ a {
       font-family: "Nunito Sans", sans-serif; }
       .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_entries ul li a {
         font-size: 15px;
-        color: #8b8d91; }
+        color: #000000; }
         .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_entries ul li a:hover, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_entries ul li a:focus {
           color: #0e649b; }
       .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_recent_entries ul li span {
@@ -1233,13 +1233,13 @@ a {
             text-decoration: none;
             color: #0e649b; }
           .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_categories > ul > li a, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_archive > ul > li a {
-            color: #8b8d91; }
+            color: #000000; }
             .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_categories > ul > li a:hover, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_categories > ul > li a:focus, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_archive > ul > li a:hover, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_archive > ul > li a:focus {
               text-decoration: none;
               color: #0e649b; }
           .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_categories > ul > li .newspaper-x-cat-count, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_archive > ul > li .newspaper-x-cat-count {
             float: right;
-            color: #8b8d91;
+            color: #000000;
             font-family: "Nunito Sans", sans-serif;
             font-size: 15px; }
             .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_categories > ul > li .newspaper-x-cat-count:before, .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_archive > ul > li .newspaper-x-cat-count:before {
@@ -1291,7 +1291,7 @@ a {
         .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_calendar #wp-calendar .pad {
           display: none; }
         .newspaper-x-blog-sidebar .widget:not(.widget_search):not(.widget_newspaper_x_banner):not(.widget_text).widget_calendar #wp-calendar td {
-          color: #8b8d91;
+          color: #000000;
           margin-bottom: 10px;
           text-align: center;
           border: 1px solid #e1e1e1;
@@ -2158,7 +2158,7 @@ a {
   color: #001936; }
 
 .single-post .entry-content .archive, .page .entry-content .archive {
-  color: #8b8d91; }
+  color: #000000; }
 
 .single-post .entry-content p:first-of-type, .page .entry-content p:first-of-type {
   color: #001936;
@@ -2266,7 +2266,7 @@ a {
       font-weight: 700; }
     .author-description .description p {
       margin-bottom: 40px;
-      color: #8b8d91;
+      color: #000000;
       font-size: 14px;
       line-height: 20px; }
   .author-description .social-list {
@@ -3059,7 +3059,7 @@ a {
         border: none; }
     .comments-area .comments-form .comment_notes_before {
       display: block;
-      color: #8b8d91;
+      color: #000000;
       font-size: 15px;
       font-family: "Nunito Sans", sans-serif;
       margin-bottom: 30px; }
@@ -3186,7 +3186,9 @@ object {
   display: block; }
 
 
-
+.item-icon {
+  width: 100%;
+}
 .item-icon .glyphicon{
   font-size: 50px;
 }
