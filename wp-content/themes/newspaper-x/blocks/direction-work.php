@@ -9,9 +9,7 @@
                     <div class="newspaper-x-blog-post-layout-b border item-icon">
                         <div class="row">
                             <div class="col-sm-5 col-xs-12">
-                                <div class="" style="max-height: 100% !important;">
-                                    <img src="<?= get_sub_field('work_dir_image'); ?>">
-                                </div>
+                                <img src="<?= get_sub_field('work_dir_image'); ?>">
                             </div>
                             <div class="col-sm-7 col-xs-12">
                                 <div class="newspaper-x-content"><?= get_sub_field('work_dir_text'); ?></div>
@@ -23,3 +21,10 @@
         </div>
     </div>
 <?php } ?>
+
+
+<style>
+    .item-icon {
+        width: 100%;
+    }
+</style>

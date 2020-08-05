@@ -49,7 +49,7 @@ if ( $posts->have_posts() ): ?>
 
                     <?php if ( $instance['show_date'] ): ?>
                         <span class="newspaper-x-category">
-							<a href="<?php echo esc_url( $cat_link ) ?>"><?php echo esc_html( $cat ); ?></a> 
+							<a href="<?php echo esc_url( $cat_link ) ?>"><?php echo esc_html( $cat ); ?></a>
 						</span>
                         <span class="newspaper-x-date"><?php echo esc_html( get_the_date() ); ?></span>
                     <?php endif; ?>
@@ -70,4 +70,5 @@ if ( $posts->have_posts() ): ?>
             ?>
         <?php endwhile; ?>
     </div>
+    <div class="text-center"><a  href="/category/news" class="btn btn-info" style="background: #0a396d">Всі новини</a></div>
 <?php endif; ?>
