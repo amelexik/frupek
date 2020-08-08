@@ -3192,3 +3192,7 @@ object {
 .item-icon .glyphicon{
   font-size: 50px;
 }
+.row-flex {
+  display: flex;
+  flex-flow: row wrap;
+}
