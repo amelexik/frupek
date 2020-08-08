@@ -1,0 +1,926 @@
+# Translation of Themes - Newspaper X in Ukrainian
+# This file is distributed under the same license as the Themes - Newspaper X package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Newspaper X\n"
+
+#. Description of the theme
+msgid "When it comes to WordPress themes for magazines, users have certain expectations. The perfect theme should be fast, easy to customize, secure, and eye-grabbing. Clean but dazzling, Newspaper X meets even the highest demands. If you were looking for a news theme to help you create a unique and recognizable brand image, look no more."
+msgstr "Коли мова йде про журнальні WordPress'івські теми, то користувачі мають певні очікування. Ідеальна тема повинна бути швидкою, легкою у налаштуваннях, безпечною і привертати увагу. Проста, але яскрава, Newspaper X відповідає навіть найвищим вимогам. Якщо ви шукали новинну тему, яка б допомогла вам створити унікальний і впізнаваний образ бренда, можете більше не шукати."
+
+#. Theme Name of the theme
+msgid "Newspaper X"
+msgstr "Newspaper X"
+
+#: template-parts/content.php:72 template-parts/content-page.php:88
+msgid "Read More"
+msgstr "Читати більше"
+
+#: searchform.php:8
+msgid "Search  "
+msgstr "Пошук"
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "Шукати..."
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:84
+msgid "2"
+msgstr "2"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:11
+msgid "Newspaper X - Posts Layout D"
+msgstr "Newspaper X - Шаблон публікацій D"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:97
+msgid "4"
+msgstr "4"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:96
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:85
+msgid "3"
+msgstr "3"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:93
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:81
+msgid "Number of columns"
+msgstr "Кількість колонок"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:127
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:132
+msgid "Posts offset"
+msgstr "Заміщення публікацій"
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:75
+msgid "By comments"
+msgstr "За коментарями"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:84
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:69
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:84
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:60
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:83
+msgid "Order"
+msgstr "Порядок"
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:17
+msgid "Header module."
+msgstr "Модуль шапки."
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:15
+msgid "Newspaper X - Header Module"
+msgstr "Newspaper X - Модуль шапки"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/layout/default.php:13
+msgid "Address:"
+msgstr "Адреса:"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/layout/default.php:10
+msgid "Email:"
+msgstr "Email:"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/layout/default.php:7
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:108
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Обрати &mdash;"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:106
+msgid "Social Menu:"
+msgstr "Соціальне меню:"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:99
+msgid "Address"
+msgstr "Адреса"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:87
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:28
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:67
+msgid "Contact"
+msgstr "Контакти"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:11
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:13
+msgid "Newspaper X - Contact"
+msgstr "Newspaper X - Контакти"
+
+#: inc/libraries/widgets/widget-newspaper-x-banner/class-widget-newspaper-x-banner.php:100
+msgid "Banner URL:"
+msgstr "Лінк банера:"
+
+#: inc/libraries/widgets/widget-newspaper-x-banner/class-widget-newspaper-x-banner.php:95
+msgid "Choose Image"
+msgstr "Оберіть зображення"
+
+#: inc/libraries/widgets/widget-newspaper-x-banner/class-widget-newspaper-x-banner.php:84
+msgid "Banner Image"
+msgstr "Зображення банера"
+
+#: inc/libraries/widgets/widget-newspaper-x-banner/class-widget-newspaper-x-banner.php:15
+msgid "Newspaper X Banners"
+msgstr "Newspaper X Банери"
+
+#: inc/libraries/widgets/widget-newspaper-x-banner/class-widget-newspaper-x-banner.php:13
+msgid "Newspaper X Banner"
+msgstr "Newspaper X Банер"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:282
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:348
+msgid "Update"
+msgstr "Оновити"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:115
+msgid "Review this theme on w.org"
+msgstr "Залишити відгук про цю тему на w.org"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:113
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:111
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:208
+msgid "Reset to default"
+msgstr "Скинути налаштування"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:201
+msgid "Line Height"
+msgstr "Висота строки"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:191
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:183
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:180
+msgid "Normal"
+msgstr "Звичайний"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:176
+msgid "Font Style"
+msgstr "Стиль шрифту"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:160
+msgid "Font Weight"
+msgstr "Висота шрифту"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:144
+msgid "Font Family"
+msgstr "Сімейство шрифту"
+
+#: inc/libraries/epsilon-framework/class-epsilon-typography.php:283
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:146
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:162
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:178
+msgid "Theme default"
+msgstr "За замовчуванням теми"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:76
+msgid "Homepage - Sidebar"
+msgstr "Головна - Бокова панель"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:50
+msgid "Homepage - Header area"
+msgstr "Головна - Шапка"
+
+#: inc/libraries/class-newspaper-x-hooks.php:247
+msgid "Website"
+msgstr "Вебсайт"
+
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:93
+#: inc/libraries/class-newspaper-x-hooks.php:242
+msgid "Email"
+msgstr "Email"
+
+#: inc/libraries/class-newspaper-x-hooks.php:238
+msgid "Name"
+msgstr "Ім'я"
+
+#: inc/libraries/class-newspaper-x-hooks.php:234
+msgid "Comment"
+msgstr "Коментар"
+
+#: inc/libraries/class-newspaper-x-hooks.php:233
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "Ваша email-адреса не буде опублікована. Обов'язкові поля позначені *"
+
+#: inc/libraries/class-newspaper-x-hooks.php:232
+msgid "Submit"
+msgstr "Надіслати"
+
+#: inc/libraries/class-newspaper-x-hooks.php:231
+msgid "Leave a reply"
+msgstr "Відповісти"
+
+#: inc/customizer/settings/general/sections.php:37
+msgid "Recomended Plugins :"
+msgstr "Рекомендовані плагіни:"
+
+#: inc/customizer/settings/general/sections.php:36
+msgid "We are social :"
+msgstr "Ми в соцмережах:"
+
+#: inc/customizer/settings/general/sections.php:35
+msgid "Recomended Actions"
+msgstr "Рекомендовані дії"
+
+#: inc/customizer/settings/general/controls.php:56
+msgid "Header background"
+msgstr "Фон шапки"
+
+#: inc/customizer/settings/general/controls.php:28
+msgid "Toggle the display of the search icon and functionality in the main navigation menu."
+msgstr "Увімкнення показу іконки пошуку та функціоналу в головному меню навігації."
+
+#: inc/customizer/settings/general/controls.php:13
+msgid "Enable a top bar section"
+msgstr "Увімкнути секцію топ-бару"
+
+#: inc/class-newspaper-x.php:150
+msgid "Set automatically"
+msgstr "Встановити автоматично"
+
+#: inc/class-newspaper-x.php:150
+msgid "Set manually"
+msgstr "Встановити вручну"
+
+#: inc/class-newspaper-x.php:149
+msgid "If you just installed Newspaper X, and are not able to see the front-page demo, you need to go to Settings -> Reading , Front page displays and select \"Static Page\"."
+msgstr "Якщо ви щойно встановили Newspaper X і не можете переглянути демо головної сторінки, вам потрібно перейти до розділу Параметри -> Читання, Початкова сторінка та вибрати \"Статична сторінка\"."
+
+#: inc/class-newspaper-x.php:143
+msgid "Import Widgets"
+msgstr "Імпортувати віджети"
+
+#: inc/class-newspaper-x.php:142
+msgid "Import Posts"
+msgstr "Імпортувати публікації"
+
+#: inc/class-newspaper-x.php:141
+msgid "Import Sample Data"
+msgstr "Імпортувати демонстраційні дані"
+
+#: inc/class-newspaper-x.php:136
+msgid "Widgets"
+msgstr "Віджети"
+
+#: inc/class-newspaper-x.php:135
+msgid "Posts"
+msgstr "Публікації"
+
+#: inc/class-newspaper-x.php:134
+msgid "Head over to our website and download the sample content data."
+msgstr "Перейдіть на наш веб-сайт і завантажте демонстраційний контент і дані."
+
+#: inc/class-newspaper-x.php:133
+msgid "Download theme sample data"
+msgstr "Завантажити демонстраційні дані теми"
+
+#: footer.php:42
+msgid "&copy; %1$s Newspaper-X a theme by <a href=\"%2$s\">Colorlib</a>"
+msgstr "&copy; %1$s Newspaper-X a тема від <a href=\"%2$s\">Colorlib</a>"
+
+#: template-parts/news-ticker.php:29
+msgid "Latest News"
+msgstr "Останні новини"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, ми не можемо знайти те, що ви шукаєте. Можливо, пошук може допомогти."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але нічого не співпало з вашими пошуковими запитами. Будь ласка, спробуйте знову, використовуючи різні ключові слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/banner/banner-adsense.php:17
+msgid "Loading"
+msgstr "Завантаження"
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "Пошук за запитом:"
+
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Результати пошуку за запитом: %s"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:11
+msgid "Newspaper X - Posts Layout C"
+msgstr "Newspaper X - Шаблон публікацій C"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:11
+msgid "Newspaper X - Posts Layout B"
+msgstr "Newspaper X - Шаблон публікацій B"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:292
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/layouts/default.php:38
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/layouts/default.php:44
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:314
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:327
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:153
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:283
+msgid "Please configure your widget"
+msgstr "Будь ласка, налаштуйте свій віджет"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:140
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:164
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:169
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:132
+msgid "Show Date and Comments"
+msgstr "Показувати дату і коментарі"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:103
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:91
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:95
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:95
+msgid "Posts to Show"
+msgstr "Публікації для показу"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:74
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:59
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:74
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:49
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:73
+msgid "&ndash; Select a category &ndash;"
+msgstr "&ndash; Оберіть категорії &ndash;"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:69
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:54
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:69
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:44
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:68
+msgid "Category"
+msgstr "Категорії"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:62
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:47
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:62
+#: inc/libraries/widgets/widget-newspaper-x-contact-us/class-widget-newspaper-x-contact-us.php:81
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:37
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:61
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:13
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:13
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:13
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:13
+msgid "Layout consists of a featured post thumbnail, followed by a handful of posts that are smaller in size. Perfect for emphasising important news."
+msgstr "Шаблон містить вибрану мініатюру публікації, встановлену вручну, а потім публікації менші за розміром. Ідеально підходить для підкреслення важливих новин."
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:11
+msgid "Newspaper X - Posts Layout A"
+msgstr "Newspaper X - Шаблон публікацій A"
+
+#: inc/class-newspaper-x.php:148
+msgid "Set front page to static"
+msgstr "Встановити статичну сторінку головною"
+
+#: inc/class-newspaper-x.php:256
+msgid "Top Social"
+msgstr "Меню соцмереж вгорі"
+
+#: inc/class-newspaper-x.php:254
+msgid "Primary"
+msgstr "Головне"
+
+#: inc/libraries/class-newspaper-x-hooks.php:267
+msgid "TAGS: "
+msgstr "ТЕГИ:"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:121
+msgid "This is a footer sidebar."
+msgstr "Це підвальний сайдбар."
+
+#: inc/libraries/class-newspaper-x-sidebars.php:120
+msgid "After Footer"
+msgstr "Після підвалу."
+
+#: inc/libraries/class-newspaper-x-sidebars.php:111
+msgid "Footer 4"
+msgstr "Підвал 4"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:102
+msgid "Footer 3"
+msgstr "Підвал 3"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:93
+msgid "Footer 2"
+msgstr "Підвал 2"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:85
+#: inc/libraries/class-newspaper-x-sidebars.php:94
+#: inc/libraries/class-newspaper-x-sidebars.php:103
+#: inc/libraries/class-newspaper-x-sidebars.php:112
+msgid "This is your footer sidebar. By default, we've defined a maximum of 4 sidebars but if you want to use less make sure you change the settings in: Footer -> Footer columns."
+msgstr "Це бічна панель вашого підвалу. За замовчуванням ми визначили максимум 4 бічні панелі, але якщо ви хочете використовувати менше, переконайтеся, що ви змінили налаштування: Підвал -> Колонки підвалу."
+
+#: inc/libraries/class-newspaper-x-sidebars.php:84
+msgid "Footer 1"
+msgstr "Підвал 1"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:68
+msgid "The sidebar holds homepage content."
+msgstr "Сайдбар містить контент головної сторінки."
+
+#: inc/libraries/class-newspaper-x-sidebars.php:67
+msgid "Homepage - After Content area"
+msgstr "Головна - Зона після контенту"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:59
+msgid "The sidebar holds the entire homepage content."
+msgstr "Сайдбар містить весь контент головної сторінки."
+
+#: inc/libraries/class-newspaper-x-sidebars.php:58
+msgid "Homepage - Content area"
+msgstr "Головна - Зона контенту"
+
+#: inc/libraries/class-newspaper-x-sidebars.php:42
+msgid "This is the blog sidebar. If you've set a posts page under Settings -> Reading, that's where your sidebar will be showing up"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-sidebars.php:41
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:184
+msgid "Please activate the WordPress Widget Importer to create the demo content."
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:179
+#: inc/libraries/class-newspaper-x-notify-system.php:187
+msgid "Please install the WordPress widget importer to create the demo content"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:170
+msgid "Please activate the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:165
+#: inc/libraries/class-newspaper-x-notify-system.php:173
+msgid "Please install the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:153
+msgid "Activate: WordPress Importer"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:148
+#: inc/libraries/class-newspaper-x-notify-system.php:156
+msgid "Install: WordPress Importer"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:139
+msgid "Activate: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-notify-system.php:134
+#: inc/libraries/class-newspaper-x-notify-system.php:142
+msgid "Install: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:70
+msgid "Order by"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:89
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:74
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:89
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:65
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:76
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:88
+msgid "Random"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:74
+msgid "By title"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:73
+msgid "By date"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:87
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:72
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:87
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:63
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:86
+msgid "Descending"
+msgstr ""
+
+#: inc/libraries/widgets/widget-newspaper-x-posts-b/class-widget-newspaper-x-posts-b.php:88
+#: inc/libraries/widgets/widget-newspaper-x-posts-d/class-widget-newspaper-x-posts-d.php:73
+#: inc/libraries/widgets/widget-newspaper-x-posts-a/class-widget-newspaper-x-posts-a.php:88
+#: inc/libraries/widgets/widget-newspaper-x-header-module/class-widget-newspaper-x-header-module.php:64
+#: inc/libraries/widgets/widget-newspaper-x-posts-c/class-widget-newspaper-x-posts-c.php:87
+msgid "Ascending"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:22
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/class-newspaper-x.php:255
+#: inc/customizer/settings/general/sections.php:14
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:6
+msgid "General"
+msgstr ""
+
+#: inc/customizer/settings/general/panels.php:8
+msgid "Theme options"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:220
+msgid "Posts date in the carousel"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:205
+msgid "Posts title in the carousel"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:183
+msgid "No more than 4 posts at once;"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:182
+msgid "How many blog posts to display in the carousel at once?"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:169
+msgid "Autoplay related carousel"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:155
+msgid "Related Posts Section"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:141
+msgid "Author info section"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:125
+msgid "Go Top Button"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:113
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:102
+msgid "Copyright footer bar"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:90
+msgid "Select how many columns should the footer display."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:89
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:87
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:86
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:85
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:84
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:71
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:43
+msgid "News ticker"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:27
+msgid "Search form"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:12
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/customizer/settings/banners/sections.php:6
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:109
+msgid "Add the code you retrieved from your AdSense account. You only need to insert the <ins> tag."
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:108
+msgid "AdSense Code:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:95
+msgid "Add the link for banner image."
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:94
+msgid "Banner Link:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:81
+msgid "Recommended size: 728 x 90"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:80
+msgid "Banner Image:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:65
+msgid "Enable banner on archives"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:51
+msgid "Enable banner on homepage"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:31
+msgid "Show this banner after X number of posts."
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:30
+msgid "Banner after X posts?"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:16
+msgid "Select what type of banner you want to use: normal image or adsense script"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:15
+msgid "The type of the banner"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:13
+msgid "AdSense"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:12
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/class-newspaper-x-customizer.php:74
+msgid "The image logo, if set, will override the text logo. You can not have both at the same time. A tagline can be displayed under the text logo."
+msgstr ""
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-upsell.php:64
+msgid "Pro"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-related-posts.php:134
+msgid "Related posts "
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-breadcrumbs.php:97
+msgid "Home "
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-breadcrumbs.php:81
+msgid "404 - Page not Found"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-breadcrumbs.php:80
+msgid "Search:"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-breadcrumbs.php:79
+msgid "Tag:"
+msgstr ""
+
+#: inc/libraries/class-newspaper-x-breadcrumbs.php:75
+msgid "/"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:387
+msgid "Support"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:385
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:382
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:380
+msgid "Getting Started"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:373
+msgid "Newspaper X is now installed and ready to use! Get ready to build something beautiful. We hope you enjoy it! We want to make sure you have the best experience using Newspaper X and that is why we gathered here all the necessary information for you. We hope you will enjoy using Newspaper X, as much as we enjoy creating great products."
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:370
+msgid "Welcome to Newspaper X! - Version "
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:165
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:127
+msgid "Get started with Newspaper X"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:125
+msgid "Welcome! Thank you for choosing Newspaper X! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:29
+msgid "See changelog"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:26
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:24
+msgid "Changelog"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:19
+msgid "See our full documentation"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:15
+msgid "This is the place to go to reference different aspects of the theme. Our online documentation is an incredible resource for learning the ins and outs of using Newspaper X."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:13
+msgid "Documentation"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:5
+msgid "We offer excellent support through our advanced ticketing system. Make sure to register your purchase before contacting support!"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/support.php:3
+#: inc/libraries/welcome-screen/sections/support.php:8
+msgid "Contact Support"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:42
+msgid "Version:"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:38
+msgid "Recommended"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:36
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:34
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:33
+msgid "Step 3 - Customize everything"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:28
+msgid "Full documentation"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:25
+msgid "Even if you're a long-time WordPress user, we still believe you should give our documentation a very quick Read."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:24
+msgid "Step 2 - Check our documentation"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:18
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:12
+msgid "We've compiled a list of steps for you, to take make sure the experience you'll have using one of our products is very easy to follow."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:11
+msgid "Step 1 - Implement recommended actions"
+msgstr ""
+
+#: inc/libraries/welcome-screen/class-newspaper-x-welcome-screen.php:146
+#: inc/libraries/welcome-screen/sections/actions-required.php:82
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/actions-required.php:62
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:31
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:286
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:352
+msgid "Deactivate"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/actions-required.php:58
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:27
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:278
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:344
+msgid "Activate"
+msgstr ""
+
+#: inc/libraries/welcome-screen/sections/actions-required.php:54
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:23
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:274
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:340
+msgid "Install"
+msgstr ""
+
+#: header.php:101 inc/libraries/class-newspaper-x-breadcrumbs.php:78
+msgid "Home"
+msgstr ""
+
+#: header.php:97
+msgid "Add a menu"
+msgstr ""
+
+#: footer.php:26
+msgid "Go Up"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:44 comments.php:67
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:43 comments.php:66
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/helpers/class-newspaper-x-helper.php:146 comments.php:33
+msgid "Comments"
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a better search?"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://colorlib.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Colorlib"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://colorlib.com/wp/themes/newspaper-x/"
+msgstr ""
