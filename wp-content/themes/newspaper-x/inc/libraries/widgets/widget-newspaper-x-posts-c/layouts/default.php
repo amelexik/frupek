@@ -70,5 +70,5 @@ if ( $posts->have_posts() ): ?>
             ?>
         <?php endwhile; ?>
     </div>
-    <div class="text-center"><a  href="/category/news" class="btn btn-info" style="background: #0a396d">Всі новини</a></div>
+    <div class="text-center"><a  href="/category/news" class="btn btn-info btn-lg" style="background: #0a396d; color: white"><b>Всі новини</b></a></div>
 <?php endif; ?>
